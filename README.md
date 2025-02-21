@@ -1,4 +1,4 @@
-Here's a sample GitHub README file content for your To-Do List application:
+
 To-Do List Application
 A simple command-line To-Do List application built in Python.
 Features
